@@ -1,0 +1,11 @@
+{
+  "name": "flowers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Flowers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
