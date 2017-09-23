@@ -1,3 +1,4 @@
+// Pattern 5
 let inherit = (function () {
     let F = function () {};
     return function (C, P) {
